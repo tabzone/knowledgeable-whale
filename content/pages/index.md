@@ -28,10 +28,26 @@ sections:
           Services
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          With scalability, reduction in expenditure on IT, and business
+          continuity becoming the need of the hour, it should come as no
+          surprise that cloud-based applications continue to grow exponentially.
+          Be it lift-and-shift migration, cloud hopping services to move between
+          cloud service providers, DevOps services, or cloud-native, we handhold
+          you from strategy to execution and go to market with our best-in-class
+          cloud infrastructure
+
+          capabilities. The experts at Anykloud will help you manage your
+          technolog stack with a variety of cloud services to suit your every
+          business need.
+
+
+
+
+
+
+
+
         actions:
           - label: Learn More
             url: /features
