@@ -1,5 +1,5 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: The Ultimate Guide to Cloud Enablement for Enterprises
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis.
