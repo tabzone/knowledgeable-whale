@@ -8,9 +8,9 @@ sections:
     title: |-
       Cloud
       Computing, simplified
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Cost-effective cloud computing so developers and their teams
+      can spend more time building software that changes the world.
     actions:
       - label: Learn More
         url: /features
