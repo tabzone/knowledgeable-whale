@@ -60,10 +60,15 @@ sections:
           Migration Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          We help organizations migrate their workloads to a cloud platform
+          through a strategic, proven, low-risk approach. Improve productivity,
+
+          decrease costs, increase scalability and leverage the power of the
+          cloud to have a regulatory-compliant infrastructure while maintaining
+          the core
+
+          functionalities of the application.
         actions:
           - label: Learn More
             url: /features
