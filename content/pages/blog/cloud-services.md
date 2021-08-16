@@ -1,8 +1,5 @@
 ---
 title: The Ultimate Guide to Cloud Enablement for Enterprises
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis.
 date: '2017-03-26'
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
