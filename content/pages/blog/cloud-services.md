@@ -44,7 +44,7 @@ thumb_image: images/1_thumb.jpg
 ---
 Cloud computing has been around since the 1960s. However, it was not until the early late 90s that it started evolving with the capabilities that the cloud is known for today. Since then, it has grown leaps and bounds with almost every organization adopting cloud for their software, infrastructure, data, and resources. The advancements in cloud computing strategies have been nothing short of revolutionary, and it has been responsible for facilitating newer, more resilient business models. Adopting a cloud-first approach for legacy infrastructure modules and applications results in cost-effective, next-gen solutions and services, and effectively breaks the silos that exist in traditional systems.![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-## ***Benefits of cloud enablement*****:**
+## ***Benefits of cloud enablement***
 
 With large-scale expansions in businesses, it has become prudent to utilize the full potential of [cloud services](https://www.zerone-consulting.com/cloud-services/) for the entire gamut of IT services in an organization.
 
@@ -82,19 +82,19 @@ Cloud service models are generally divided into three main types. All three have
 
 #### *Creating a cloud approach tailor-made for your organization*
 
-Businesses around the world are embracing various forms for cloud computing since the cloud has the power to leverage their benefits and give them a competitive advantage. Before any company thinks of moving to a cloud resource model, what are the key steps that need to be kept in mind*?*
+Businesses around the world are embracing various forms for cloud computing since the cloud has the power to leverage their benefits and give them a competitive advantage. Before any company thinks of moving to a cloud resource model, what are the key steps that need to be kept in mind\*?\*
 
-*Having a financial strategy: *Moving to a cloud environment is bound to have quite a bit of initial cost overhead. Identifying the financial strain, that cloud migration is going to cost a company and having a robust strategy in place is paramount to the success of cloud migration in any company. Most cloud computing models are funded by an Operational Expense (OPEX) model rather than a Capital Expense (CapEx) one. However, in some cases, initial IT investments are required to set up the infrastructure for private cloud methods. This distinction wholly depends on the kind of organization and its business requirements. 
+\*Having a financial strategy: \*Moving to a cloud environment is bound to have quite a bit of initial cost overhead. Identifying the financial strain, that cloud migration is going to cost a company and having a robust strategy in place is paramount to the success of cloud migration in any company. Most cloud computing models are funded by an Operational Expense (OPEX) model rather than a Capital Expense (CapEx) one. However, in some cases, initial IT investments are required to set up the infrastructure for private cloud methods. This distinction wholly depends on the kind of organization and its business requirements. 
 
-*Business goals: *Though most companies move to cloud for ease of operations and higher revenue, the industry leaders must examine the cloud strategy that they plan to use, allying with the digital transformation and profit goals of their organization. It would help to create a roadmap that will show key business objectives and how the organization will use cloud migration to help achieve it. There may be instances in which the data centers are located in a country that has varied privacy rules when compared to your organization. Possible future challenges like these need to be identified and solutions must be crafted that would be used in the event of an unlikely disruption.
+\*Business goals: \*Though most companies move to cloud for ease of operations and higher revenue, the industry leaders must examine the cloud strategy that they plan to use, allying with the digital transformation and profit goals of their organization. It would help to create a roadmap that will show key business objectives and how the organization will use cloud migration to help achieve it. There may be instances in which the data centers are located in a country that has varied privacy rules when compared to your organization. Possible future challenges like these need to be identified and solutions must be crafted that would be used in the event of an unlikely disruption.
 
-*Taking an asset inventory: *It is mandatory to take an inventory assessment and get a summary of the entire work process, data, application, and performance characteristics. Data compliance requirements, dependency on hardware, infrastructure, and the mission-critical parts must be taken into consideration before cloud migration. Determine what level of migration is required for each asset and what level of refactoring and remediating is necessary when shifting operations to the cloud.
+\*Taking an asset inventory: \*It is mandatory to take an inventory assessment and get a summary of the entire work process, data, application, and performance characteristics. Data compliance requirements, dependency on hardware, infrastructure, and the mission-critical parts must be taken into consideration before cloud migration. Determine what level of migration is required for each asset and what level of refactoring and remediating is necessary when shifting operations to the cloud.
 
 *Selecting the right cloud strategy*: Adopting the correct deployment for your cloud is crucial to the success of your cloud migration project. Private, public, hybrid, and multi-cloud models have their own set of advantages and challenges. Most organizations use a mix of many cloud models to empower their varied business needs. Security, cost, and rate of the possible growth of an organization are often taken into consideration when choosing a cloud model. If organizations are looking to offload initial investments involved in migrating resources to the cloud, then a public cloud is adopted. However, if the business has a significant amount of resources that have sensitive information, then it would be wise to invest in a private cloud model over which the organization has complete control. The majority of businesses use a mixture of different cloud models that provide support to varied business instances.
 
 *Planning for an exit strategy*: Though the organization may have prepared for every eventuality, there may be instances when a migration project needs to be rolled back. This may be because the cost has gone above the budget allocated for cloud migration, or maybe because the company may have evolved to a different model and would no longer need cloud capabilities. An exit strategy would instruct an organization to plug out of a cloud migrations project if the odds are not in favor. To move the infrastructure and resources, back in-house, company leaders need to check if software licenses can be re-established and if the on-premise infrastructure is robust enough to serve the needs of the organization. Having a sound strategy in place before moving to the cloud will make the transition back much smoother.
 
-#### *Steps for cloud enablement: *
+#### \*Steps for cloud enablement: \*
 
 *Assessment*: Before an organization migrates to the cloud, it is essential to take stock of the present situation of the on-premise infrastructure of your business and gather insights about business-critical processes. Once the initial inventory is done, specific networking and infrastructure requirements need to be identified. Workloads can also be classified as those of least priority to those which are highly critical and these can be migrated based on the order of importance. 
 
@@ -113,6 +113,5 @@ Businesses around the world are embracing various forms for cloud computing sinc
 *
 
 *   *
-
 
     *
