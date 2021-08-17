@@ -54,7 +54,7 @@ sections:
       - title: |-
           Data
           Migration Services
-        image: images/feature2.png
+        image: /images/Cloud 3.jpg
         image_alt: App users welcoming a new member
         content: >
           We help organizations migrate their workloads to a cloud platform
