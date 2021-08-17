@@ -22,7 +22,7 @@ sections:
       - title: |-
           Cloud
           Services
-        image: images/feature1.png
+        image: /images/cloud-computing2.jpg
         image_alt: App preview on a phone and tablet
         content: >+
           With scalability, reduction in expenditure on IT, and business
