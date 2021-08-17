@@ -5,7 +5,7 @@ excerpt: >-
   parenting into his or her business activities.
 author: content/data/authors/jane-doe.yaml
 date: '2020-04-22'
-thumb_image: /images/comprompt-services-cloud-services.jpg
+thumb_image: /images/cloud-computing-2-1.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
