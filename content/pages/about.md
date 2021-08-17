@@ -31,7 +31,15 @@ seo:
       relativeUrl: true
 layout: page
 ---
+# **Anykloud&#xD; Concept**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Cloud content and services marketplace site that allows users to obtain:
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+*     Provide quality cloud content on migration, devops best practices, links to tools, and training classes on audacity, Coursera, etc. The content should be educational in nature. Source of content:
+    Web crawls from devops.com, search for other best practices sites. Action: Need to identify source sites with good content to crawl and
+
+
+*   Cloud services marketplace that allows customers to source a cloud service provider in certain areas of expertise such as DB migration or container. Actions: 1/ Come up with service taxonomy 2/ List of cloud service providers seeded by prior aggregated data (manually or crawling).
+
+
+*    Anykloud will maintain its own consultants to provide services as well but customers can pick 3rd party cloud service providers or AnyKloud consultants.
