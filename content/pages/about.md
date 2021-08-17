@@ -1,7 +1,8 @@
 ---
 title: About Us
 subtitle: Welcome to Anykloud
-image: images/about.jpg
+image: >-
+  /images/Not-All-Cloud-Computing-Services-are-the-Same-Three-Levels-of-Cloud-Service-1920.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
