@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: We are Anykloud
+subtitle: Welcome to Anykloud
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
