@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/authors/john-doe.yaml
-thumb_image: images/1_thumb.jpg
+thumb_image: /images/cloud-2000x1200.jpg
 ---
 Cloud computing has been around since the 1960s. However, it was not until the early late 90s that it started evolving with the capabilities that the cloud is known for today. Since then, it has grown leaps and bounds with almost every organization adopting cloud for their software, infrastructure, data, and resources. The advancements in cloud computing strategies have been nothing short of revolutionary, and it has been responsible for facilitating newer, more resilient business models. Adopting a cloud-first approach for legacy infrastructure modules and applications results in cost-effective, next-gen solutions and services, and effectively breaks the silos that exist in traditional systems.![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
