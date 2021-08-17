@@ -75,7 +75,7 @@ sections:
       - title: |-
           DevOps
           Services
-        image: images/feature3.png
+        image: /images/asdfgrthyju.png
         image_alt: App user profile preview
         content: >
           Fast-track your route to on-demand releases, while maintaining high
