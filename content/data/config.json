@@ -15,7 +15,7 @@
             },
             {
                 "label": "About Us",
-                "url": "/",
+                "url": "/about",
                 "style": "link"
             },
             {
