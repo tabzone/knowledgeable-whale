@@ -4,7 +4,7 @@ subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: "There has been rapid growth in the\_Internet of Things (IoT)\_and big data technologies amongst organizations and individuals."
 date: '2021-07-07'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/images (2).jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
