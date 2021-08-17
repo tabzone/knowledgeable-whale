@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/logo 123.jpg
     image_alt: App preview
     title: |-
       Cloud
