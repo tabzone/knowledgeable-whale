@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Guide to Cloud Enablement for Enterprises
-date: '2017-03-26'
+date: '2021-08-17'
 excerpt: >-
   Cloud computing has been around since the 1960s. However, it was not until the
   early late 90s that it started evolving with the capabilities that the cloud
