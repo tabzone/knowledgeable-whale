@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: How are Big Data and IoT Interrelated
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: "There has been rapid growth in the\_Internet of Things (IoT)\_and big data technologies amongst organizations and individuals."
