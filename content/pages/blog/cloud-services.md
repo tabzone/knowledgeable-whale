@@ -47,7 +47,7 @@ Cloud computing has been around since the 1960s. However, it was not until the e
 
 ## ***Benefits of cloud enablement***
 
-With large-scale expansions in businesses, it has become prudent to utilize the full potential of [cloud services](https://www.zerone-consulting.com/cloud-services/) for the entire gamut of IT services in an organization.
+With large-scale expansions in businesses, it has become prudent to utilize the full potential of cloud services for the entire gamut of IT services in an organization.
 
 *Scalability*: With traditional systems, scaling up the infrastructure as the business grows, was a time-consuming, tedious process. However, with the advent of the cloud migration process, enterprises can now quickly accommodate spikes in infrastructure demand as and when required.
 
@@ -89,7 +89,7 @@ Businesses around the world are embracing various forms for cloud computing sinc
 
 \*Business goals: \*Though most companies move to cloud for ease of operations and higher revenue, the industry leaders must examine the cloud strategy that they plan to use, allying with the digital transformation and profit goals of their organization. It would help to create a roadmap that will show key business objectives and how the organization will use cloud migration to help achieve it. There may be instances in which the data centers are located in a country that has varied privacy rules when compared to your organization. Possible future challenges like these need to be identified and solutions must be crafted that would be used in the event of an unlikely disruption.
 
-\*Taking an asset inventory: \*It is mandatory to take an inventory assessment and get a summary of the entire work process, data, application, and performance characteristics. Data compliance requirements, dependency on hardware, infrastructure, and the mission-critical parts must be taken into consideration before cloud migration. Determine what level of migration is required for each asset and what level of refactoring and remediating is necessary when shifting operations to the cloud.
+\*Taking an asset inventory: \*It is mandatory to take an inventory assessment and get a summary of the entire work process, data, application, and performance characteristics. Data compliance requirements, dependency on hardware, infrastructure, and mission-critical parts must be taken into consideration before cloud migration. Determine what level of migration is required for each asset and what level of refactoring and remediating is necessary when shifting operations to the cloud.
 
 *Selecting the right cloud strategy*: Adopting the correct deployment for your cloud is crucial to the success of your cloud migration project. Private, public, hybrid, and multi-cloud models have their own set of advantages and challenges. Most organizations use a mix of many cloud models to empower their varied business needs. Security, cost, and rate of the possible growth of an organization are often taken into consideration when choosing a cloud model. If organizations are looking to offload initial investments involved in migrating resources to the cloud, then a public cloud is adopted. However, if the business has a significant amount of resources that have sensitive information, then it would be wise to invest in a private cloud model over which the organization has complete control. The majority of businesses use a mixture of different cloud models that provide support to varied business instances.
 
@@ -109,10 +109,5 @@ Businesses around the world are embracing various forms for cloud computing sinc
 
 [Industry leaders predict](https://www.gartner.com/en/newsroom/press-releases/2019-04-02-gartner-forecasts-worldwide-public-cloud-revenue-to-g) that cloud services will be a $299.4 billion worth industry in the next few years, and almost all IT services will be cloud-sourced. With the rapid increase in cloud adoption, it has the power to change the way enterprises provide services to their clients fundamentally. Enterprises that have a detailed plan for digital transformation will be bound to be on top of the market, with high-responsive, scalable, cost-effective solutions. However, to gain the full benefits of a cloud migration setup, organizations need to overcome barriers like increased operational overhead. Leverage existing knowledge of the cloud and its capabilities to successfully deploy and maintain the cloud strategy required for your organization. Multiphased roadmaps that email the cloud strategies will certainly help in avoiding technical and organizational glitches when moving to the cloud.
 
-*
 
-*
 
-*   *
-
-    *
